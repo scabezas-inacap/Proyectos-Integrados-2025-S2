@@ -40,9 +40,15 @@ Aprendizaje Basado en Proyectos (ABPro) Es el empleo didáctico de un proyecto, 
 
 * 1.1.5 Distingue las necesidades de seguridad TI del negocio, de acuerdo con las características de la problemática y el razonamiento ético profesional.
 
+
 #### 2.1.2\. Situación de Evaluación
 
 Los estudiantes de manera grupal elaboran un informe y preparan una exposición que incluye una solución de software, en base a un diagnóstico de las necesidades.
+
+#### 2.1.3\. Recursos
+
+* [¿Qué es y cómo se levanta un diagnóstico?](https://virtual.inacap.cl/repositorio/TIHV43/U1/que-es-y-como-se-levanta-un-diagnostico-raw-nIo6AAT-%20/content/index.php?sci=5766b902308f4529b1ce35e1b1232800#/)
+* [Resumen Ejecutivo](https://lms.inacap.cl/pluginfile.php/19342559/mod_resource/content/1/TIHV43_Resumen_Ejecutivo.pdf)
 
 ### 2.2\. Unidad 2: Diseño de la solución de software.
 
@@ -64,6 +70,14 @@ Los estudiantes de manera grupal elaboran un informe y preparan una exposición 
 
 Los estudiantes de manera grupal diseñan y exponen la solución del problema detectado, integrando nuevas tecnologías e infraestructuras de desarrollo emergentes
 
+#### 2.2.3\. Recursos
+
+* [Como Levantar una propuesta de mejora](https://virtual.inacap.cl/repositorio/TIHV43/U2/como-levantar-una-propuesta-de-mejora/content/index.php?sci=5766b902308f4529b1ce35e1b1232800)
+
+* [Matriz de Priorización](https://virtual.inacap.cl/repositorio/TIHV43/U2/Matriz%20de%20priorizaci%C3%B3n/genially.php?sci=5766b902308f4529b1ce35e1b1232800)
+
+* [Como desarrollar una propuesta y plan de mejora](https://player.vimeo.com/video/800561099)
+
 ### 2.3\. Unidad 3: Implementación de la solución.
 
 #### 2.3.1\. Criterios de Evaluación
@@ -84,6 +98,12 @@ Los estudiantes de manera grupal diseñan y exponen la solución del problema de
 
 Los estudiantes de manera grupal construyen y exponen la solución que integra las nuevas tecnologías e infraestructuras emergentes, considerando las buenas prácticas y los aspectos de seguridad.
 
+#### 2.3.3\. Recursos
+
+* [Cómo desarrollar una propuesta de mejora](https://virtual.inacap.cl/repositorio/TIHV43/U3/como-desarrollar-una-propuesta-de-mejora/content/index.php?sci=5766b902308f4529b1ce35e1b1232800)
+* [BrainStorming 2](https://player.vimeo.com/video/800561177)
+* []()
+
 ### 2.4\. Unidad 4: Comunicación de la solución del proyecto.
 
 #### 2.4.1\. Criterios de Evaluación
@@ -99,6 +119,11 @@ Los estudiantes de manera grupal construyen y exponen la solución que integra l
 #### 2.4.2\. Situación de Evaluación
 
 Los estudiantes de manera grupal demuestran que la solución construida da respuesta a las necesidades inicialmente planteadas, exponiendo sus resultados a los interesados.
+
+#### 2.4.3\. Recursos
+
+* [Comunicando mi propuesta de mejora](https://virtual.inacap.cl/repositorio/TIHV43/U4/comunicando-mi-proyecto-y-propuesta-de-mejora/content/index.php?sci=5766b902308f4529b1ce35e1b1232800#/)
+* [Uso del lenguaje, señalización en el discurso, tono de voz](https://player.vimeo.com/video/800561185)
 
 ## 3\. Bibliografía
 
