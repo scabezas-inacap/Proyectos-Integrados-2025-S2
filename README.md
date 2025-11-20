@@ -19,7 +19,6 @@ la cooperación con otros y la búsqueda de la competitividad).
 
 * [Quienes Somos (Vimeo)](https://player.vimeo.com/video/1107516596)
 * [Problemáticas y Expectativas (Vimeo)](https://player.vimeo.com/video/1107516609)
-* [Retroalimentación Entrega 1](https://inacapmailcl-my.sharepoint.com/:f:/g/personal/sebastian_cabezas07_inacapmail_cl/Ejxf_C-sGCdFp45wR5XZIQkBKFAjVbroOM3u0vpQssHBvA?e=MzjfSx)
 
 ## 2\. Unidades
 
@@ -28,6 +27,8 @@ la cooperación con otros y la búsqueda de la competitividad).
 Aprendizaje Basado en Proyectos (ABPro) Es el empleo didáctico de un proyecto, el cual debe ser planificado, creado y evaluado, en pequeños grupos de estudiantes, con el objeto de responder a las necesidades planteadas en una determinada situación” (Universidad Politécnica de Madrid, 2008).
 
 ### 2.1\. Unidad 1: Diagnóstico del problema informático.
+
+* [Retroalimentación Entrega 1](https://inacapmailcl-my.sharepoint.com/:f:/g/personal/sebastian_cabezas07_inacapmail_cl/Ejxf_C-sGCdFp45wR5XZIQkBKFAjVbroOM3u0vpQssHBvA?e=MzjfSx)
 
 #### 2.1.1\. Criterios de Evaluación
 
@@ -41,7 +42,6 @@ Aprendizaje Basado en Proyectos (ABPro) Es el empleo didáctico de un proyecto, 
 
 * 1.1.5 Distingue las necesidades de seguridad TI del negocio, de acuerdo con las características de la problemática y el razonamiento ético profesional.
 
-
 #### 2.1.2\. Situación de Evaluación
 
 Los estudiantes de manera grupal elaboran un informe y preparan una exposición que incluye una solución de software, en base a un diagnóstico de las necesidades.
@@ -52,7 +52,8 @@ Los estudiantes de manera grupal elaboran un informe y preparan una exposición 
 * [Resumen Ejecutivo](https://lms.inacap.cl/pluginfile.php/19342559/mod_resource/content/1/TIHV43_Resumen_Ejecutivo.pdf)
 
 ### 2.2\. Unidad 2: Diseño de la solución de software.
-[Retroalimentación Entrega 2](https://inacapmailcl-my.sharepoint.com/:f:/g/personal/sebastian_cabezas07_inacapmail_cl/Ev7pUwfwEdBKkGbTpezfDosBQzliDxl2w7yBO0YG3KHg_A?e=gwDaJ9)
+
+* [Retroalimentación Entrega 2](https://inacapmailcl-my.sharepoint.com/:f:/g/personal/sebastian_cabezas07_inacapmail_cl/Ev7pUwfwEdBKkGbTpezfDosBQzliDxl2w7yBO0YG3KHg_A?e=gwDaJ9)
 
 #### 2.2.1\. Criterios de Evaluación
 
