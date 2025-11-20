@@ -52,6 +52,7 @@ Los estudiantes de manera grupal elaboran un informe y preparan una exposición 
 * [Resumen Ejecutivo](https://lms.inacap.cl/pluginfile.php/19342559/mod_resource/content/1/TIHV43_Resumen_Ejecutivo.pdf)
 
 ### 2.2\. Unidad 2: Diseño de la solución de software.
+[Retroalimentación Entrega 2](https://inacapmailcl-my.sharepoint.com/:f:/g/personal/sebastian_cabezas07_inacapmail_cl/Ev7pUwfwEdBKkGbTpezfDosBQzliDxl2w7yBO0YG3KHg_A?e=gwDaJ9)
 
 #### 2.2.1\. Criterios de Evaluación
 
