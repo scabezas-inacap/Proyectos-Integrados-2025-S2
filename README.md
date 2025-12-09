@@ -145,3 +145,16 @@ Los estudiantes de manera grupal demuestran que la solución construida da respu
 * UML: arquitectura de aplicaciones en Java, C++ y Python	Jiménez de Parga, Carlos	2021
 
 * La guía de Scrum. Disponible en [PDF](https://scrumguides.org/docs/scrumguide/v2020/2020-Scrum-Guide-Spanish-Latin-South-American.pdf)
+
+------
+
+# Evaluación Final de la asignatura
+
+- Presentación de su proyecto en un tiempo entre 8 a 10 minutos (menos o más tiempo implica que la nota final será 4,0).
+- Debe presentarse en tenida semi-formal (puede ser una polera piqué + short (por el calor) ó Polera + Pantalón de tela, zapatos o zapatillas a corde a la situación).
+- Debe estar presente en todas las presentaciones. Además, deberá hacer un set de preguntas, ya que 3 grupos serán elegidos al azar y deberán hacer una pregunta pertinente a su proyecto al grupo expositor. Si la pregunta se repite y no tiene más, la nota máxima que tendrá el grupo que pregunta será un 4,0.
+- Si llega tarde, no puede interrumpir la presentación de sus compañeros, puede ingresar una vez hayan terminado de presentar y comience la ronda de preguntas.
+- Si su grupo ya presentó y no se encuentra presente en las otras presentaciones, arriesga el cambio de nota a 1,0 y ser reprobado de la asignatura.
+
+Las presentaciones comienzan el día 16 de diciembre a las 20:30 horas. Sean puntuales. El orden de los grupos será entregado el día 16 de diciembre a las 20:30 horas.
+
