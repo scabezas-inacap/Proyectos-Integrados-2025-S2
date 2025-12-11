@@ -3,8 +3,8 @@
 Envíe un correo al docente sebastian.cabezas07@inacapmail.cl con el link a su **onedrive** donde tiene los videos realizados.
 
 Los videos son:
-- Incorpore diagrama de casos de uso para su seguridad.
-- Incorpore su plan de pruebas para su seguridad.
+- Incorpore diagrama de casos de uso para su seguridad. (opcional)
+- Incorpore su plan de pruebas para su seguridad. (opcional)
 - Funcional (Camino feliz), donde se muestra todo el funcionamiento de su aplicativo.
 - Plan de pruebas, pueden hacer una carpeta dentro del mismo **onedrive** y colocar las pruebas realizadas. Puede ser un solo video.
 
