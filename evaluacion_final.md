@@ -53,3 +53,21 @@ Las presentaciones comienzan el día 16 de diciembre a las 20:30 horas. Sean pun
 30. Vergara, Ian
 31. Vásquez, Ámbar
 32. Ynfantes, Manuel
+
+## Orden de Presentaciones:
+1. Matrimonios (Esteban Medina, Catalina Reyes)
+2. Sport Reserve (Juan Fuentes, Manuel Ynfantes)
+3. Fined (Javier Astete, Ignacio Pulgar, Ian Vergara)
+4. Vota Local (Alejandro Adriazola, Paola Valenzuela)
+5. SGAPC (Antonio Morales)
+6. Impulsa (Carmen Herrera, Britany Labraña)
+7. TPEP (Cesar Briceño, Sebastián Lecaro)
+8. Adopta Mascotas Chile (Nahuel Acevedo, Felipe Farías, Jocelyn Saravia)
+9. Kento (Fernando Arriaza, José Correa)
+10. ArtesanApp (Beatriz Mallea, Esteban Venegas)
+11. Rutek (Constanza Cabello, Daniel Otero, Francisco Palacios)
+12. Park Control (Sebastián Araujo)
+13. VACC Guard (Constanza Díaz, Javiera Troncoso)
+14. Car Connect (Bastián Salazar)
+15. Paleta de Colores (David Astudillo, Yetsabel Pino)
+16. Eco Acción (María Antonieta Rivano Berríos)
